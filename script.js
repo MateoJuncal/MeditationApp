@@ -26,3 +26,7 @@ startOneTime = () => {
 };
 
 playButton.addEventListener("click", startOneTime);
+
+const prueba = () => {
+  console.log("Esto es una prueba");
+};
